@@ -58,8 +58,6 @@ Tenho conhecimento em HTML, CSS, JavaScript, React, Java e PHP, além de templat
 
 </div>
 
-> ⚙️ Esse gráfico é gerado automaticamente pelo próprio GitHub (via Action, arquivo `snake.yml`), então nunca fica quebrado por sites de terceiros caírem. Só aparece depois que a Action rodar pela primeira vez.
-
 <br>
 
 ## 🧭 Experiência
