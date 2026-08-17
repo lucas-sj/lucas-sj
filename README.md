@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1%2C+eu+sou+o+Lucas+%F0%9F%91%8B;Desenvolvedor+FullStack;Python+%2B+Django+%2B+DRF&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=22" alt="typing banner" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-marcelo-3a305a157)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=lucas-sj&style=for-the-badge&color=58A6FF&label=VISUALIZA%C3%87%C3%95ES)
 
 </div>
@@ -14,33 +13,38 @@
 
 Desenvolvedor Python/Django com atuação em **integrações de APIs, automações e sustentação de sistemas de atendimento e mídias sociais**. Trabalho com Django Rest Framework, versionamento Git e metodologias ágeis, usando Docker, JIRA, Graylog, Postman e Confluence no dia a dia.
 
-Tenho conhecimento em HTML, CSS, JavaScript e templates com Jinja, além de experiência anterior em **suporte técnico e infraestrutura** — o que me dá uma visão mais completa do ciclo de vida das aplicações que desenvolvo. Também já atuei como freelancer em projetos full stack.
+Tenho conhecimento em HTML, CSS, JavaScript, React, Java e PHP, além de templates com Jinja e experiência anterior em **suporte técnico e infraestrutura** — o que me dá uma visão mais completa do ciclo de vida das aplicações que desenvolvo. Também já atuei como freelancer em projetos full stack.
 
 🎯 **Foco atual:** integrações de APIs, automações de processos e sustentação de sistemas de atendimento e mídias sociais.
 
 <br>
 
-## 🛠 Stack
+## 🛠 Tech Stack
 
-<div align="center">
+### 💻 Linguagens
 
-<img src="https://img.shields.io/badge/-Backend-141321?style=flat-square" alt="Backend"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=python,django,flask,git" alt="Backend stack" />
+![Python](https://img.shields.io/badge/-Python-141321?style=flat&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-141321?style=flat&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/-Java-141321?style=flat&logo=openjdk&logoColor=E76F00)
+![PHP](https://img.shields.io/badge/-PHP-141321?style=flat&logo=php&logoColor=777BB4)
+![HTML5](https://img.shields.io/badge/-HTML5-141321?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-141321?style=flat&logo=css3&logoColor=1572B6)
 
-<br><br>
+### 🧱 Frameworks & Backend
 
-<img src="https://img.shields.io/badge/-Frontend%20%26%20Templates-141321?style=flat-square" alt="Frontend"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend stack" />
+![Django](https://img.shields.io/badge/-Django-141321?style=flat&logo=django&logoColor=092E20)
+![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-141321?style=flat&logo=django&logoColor=A30000)
+![Flask](https://img.shields.io/badge/-Flask-141321?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/-React-141321?style=flat&logo=react&logoColor=61DAFB)
+![Jinja](https://img.shields.io/badge/-Jinja-141321?style=flat&logo=jinja&logoColor=B41717)
 
-<br><br>
+### ☁️ Ferramentas & DevOps
 
-<img src="https://img.shields.io/badge/-DevOps%20%26%20Ferramentas-141321?style=flat-square" alt="DevOps"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=docker,postman,jira,confluence" alt="Ferramentas" />
-
-</div>
+![Docker](https://img.shields.io/badge/-Docker-141321?style=flat&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/-Git-141321?style=flat&logo=git&logoColor=F05032)
+![Jira](https://img.shields.io/badge/-Jira-141321?style=flat&logo=jira&logoColor=0052CC)
+![Postman](https://img.shields.io/badge/-Postman-141321?style=flat&logo=postman&logoColor=FF6C37)
+![Confluence](https://img.shields.io/badge/-Confluence-141321?style=flat&logo=confluence&logoColor=172B4D)
 
 <br>
 
@@ -54,7 +58,7 @@ Tenho conhecimento em HTML, CSS, JavaScript e templates com Jinja, além de expe
 
 </div>
 
-> ⚙️ Esse gráfico é gerado automaticamente pelo próprio GitHub (via Action), então nunca fica quebrado por sites de terceiros caírem. Veja abaixo como ativar.
+> ⚙️ Esse gráfico é gerado automaticamente pelo próprio GitHub (via Action, arquivo `snake.yml`), então nunca fica quebrado por sites de terceiros caírem. Só aparece depois que a Action rodar pela primeira vez.
 
 <br>
 
